@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{782EE827-0D13-4E73-A216-50D522ACA9FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reverse_Arrays/Program.cs">
+    <Files>
+      <File FileName="Reverse_Arrays/Program.cs" Line="48" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reverse_Arrays" expanded="True">
+            <Node name="Reverse_Arrays" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Reverse__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

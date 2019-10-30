@@ -1,0 +1,10 @@
+/Users/luishinostroza/Projects/Reverse_Arrays/Reverse_Arrays/bin/Debug/Reverse_Arrays.exe
+/Users/luishinostroza/Projects/Reverse_Arrays/Reverse_Arrays/bin/Debug/Reverse_Arrays.pdb
+/Users/luishinostroza/Projects/Reverse_Arrays/Reverse_Arrays/obj/Debug/Reverse_Arrays.csprojAssemblyReference.cache
+/Users/luishinostroza/Projects/Reverse_Arrays/Reverse_Arrays/obj/Debug/Reverse_Arrays.exe
+/Users/luishinostroza/Projects/Reverse_Arrays/Reverse_Arrays/obj/Debug/Reverse_Arrays.pdb
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning/Reverse_Arrays/Reverse_Arrays/bin/Debug/Reverse_Arrays.exe
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning/Reverse_Arrays/Reverse_Arrays/bin/Debug/Reverse_Arrays.pdb
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning/Reverse_Arrays/Reverse_Arrays/obj/Debug/Reverse_Arrays.csprojAssemblyReference.cache
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning/Reverse_Arrays/Reverse_Arrays/obj/Debug/Reverse_Arrays.exe
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning/Reverse_Arrays/Reverse_Arrays/obj/Debug/Reverse_Arrays.pdb

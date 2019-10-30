@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_Arrays", "Reverse_Arrays\Reverse_Arrays.csproj", "{782EE827-0D13-4E73-A216-50D522ACA9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{782EE827-0D13-4E73-A216-50D522ACA9FF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{782EE827-0D13-4E73-A216-50D522ACA9FF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{782EE827-0D13-4E73-A216-50D522ACA9FF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{782EE827-0D13-4E73-A216-50D522ACA9FF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
