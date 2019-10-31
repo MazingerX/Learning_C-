@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0359228C-20CB-4BE9-9B86-959A92D0103D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Symmetric_Array_Checking/Program.cs">
+    <Files>
+      <File FileName="Symmetric_Array_Checking/Program.cs" Line="51" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Symmetric_Array_Checking" expanded="True">
+            <Node name="Symmetric_Array_Checking" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Symmetric__Array__Checking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
