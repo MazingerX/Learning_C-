@@ -1,0 +1,5 @@
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Matrix_Arrays/MatrixArrayOperations/MatrixArrayOperations/bin/Debug/MatrixArrayOperations.exe
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Matrix_Arrays/MatrixArrayOperations/MatrixArrayOperations/bin/Debug/MatrixArrayOperations.pdb
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Matrix_Arrays/MatrixArrayOperations/MatrixArrayOperations/obj/Debug/MatrixArrayOperations.csprojAssemblyReference.cache
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Matrix_Arrays/MatrixArrayOperations/MatrixArrayOperations/obj/Debug/MatrixArrayOperations.exe
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Matrix_Arrays/MatrixArrayOperations/MatrixArrayOperations/obj/Debug/MatrixArrayOperations.pdb

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{85C1A4B4-C97D-44D5-93D5-DB446ED0D73D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MatrixArrayOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatrixArrayOperations/Program.cs">
+    <Files>
+      <File FileName="MatrixArrayOperations/Program.cs" Line="101" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MatrixArrayOperations" expanded="True">
+            <Node name="MatrixArrayOperations" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
