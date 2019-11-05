@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DE30FD35-1443-4C04-BB44-3EA97A3D8069}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pascal_Triangle/Program.cs">
+    <Files>
+      <File FileName="Pascal_Triangle/Program.cs" Line="39" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pascal_Triangle" expanded="True">
+            <Node name="Pascal_Triangle" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pascal__Triangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

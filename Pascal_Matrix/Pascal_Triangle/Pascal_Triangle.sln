@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal_Triangle", "Pascal_Triangle\Pascal_Triangle.csproj", "{DE30FD35-1443-4C04-BB44-3EA97A3D8069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE30FD35-1443-4C04-BB44-3EA97A3D8069}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DE30FD35-1443-4C04-BB44-3EA97A3D8069}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DE30FD35-1443-4C04-BB44-3EA97A3D8069}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DE30FD35-1443-4C04-BB44-3EA97A3D8069}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

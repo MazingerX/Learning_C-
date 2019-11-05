@@ -1,0 +1,5 @@
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Fibonacci_Matrix/Fibonacci_Sequence/Fibonacci_Sequence/bin/Debug/Fibonacci_Sequence.exe
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Fibonacci_Matrix/Fibonacci_Sequence/Fibonacci_Sequence/bin/Debug/Fibonacci_Sequence.pdb
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Fibonacci_Matrix/Fibonacci_Sequence/Fibonacci_Sequence/obj/Debug/Fibonacci_Sequence.csprojAssemblyReference.cache
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Fibonacci_Matrix/Fibonacci_Sequence/Fibonacci_Sequence/obj/Debug/Fibonacci_Sequence.exe
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Fibonacci_Matrix/Fibonacci_Sequence/Fibonacci_Sequence/obj/Debug/Fibonacci_Sequence.pdb

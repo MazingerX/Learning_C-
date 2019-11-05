@@ -1,0 +1,5 @@
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Pascal_Matrix/Pascal_Triangle/Pascal_Triangle/bin/Debug/Pascal_Triangle.exe
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Pascal_Matrix/Pascal_Triangle/Pascal_Triangle/bin/Debug/Pascal_Triangle.pdb
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Pascal_Matrix/Pascal_Triangle/Pascal_Triangle/obj/Debug/Pascal_Triangle.csprojAssemblyReference.cache
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Pascal_Matrix/Pascal_Triangle/Pascal_Triangle/obj/Debug/Pascal_Triangle.exe
+/Users/luishinostroza/ComputerProgramming/CSharp/Learning_C#/Pascal_Matrix/Pascal_Triangle/Pascal_Triangle/obj/Debug/Pascal_Triangle.pdb
