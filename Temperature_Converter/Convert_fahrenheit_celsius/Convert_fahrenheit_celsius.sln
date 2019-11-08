@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_fahrenheit_celsius", "Convert_fahrenheit_celsius\Convert_fahrenheit_celsius.csproj", "{56D93A12-3AA4-4C04-9886-BC39636CA2FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D93A12-3AA4-4C04-9886-BC39636CA2FD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{56D93A12-3AA4-4C04-9886-BC39636CA2FD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{56D93A12-3AA4-4C04-9886-BC39636CA2FD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{56D93A12-3AA4-4C04-9886-BC39636CA2FD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{56D93A12-3AA4-4C04-9886-BC39636CA2FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Convert_fahrenheit_celsius/Program.cs">
+    <Files>
+      <File FileName="Convert_fahrenheit_celsius/Program.cs" Line="14" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Convert__fahrenheit__celsius PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
