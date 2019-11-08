@@ -7,7 +7,8 @@ namespace Fibonacci_Sequence
         public static void Main(string[] args)
         {
             Console.WriteLine("To find a Fibonacci Sequence we need a Pascal Triangle:");
-            Console.WriteLine("Enter how many rows you want to see in the Pascal Triangle: ");
+            Console.WriteLine("Enter how many sequence numbers you want to see in the Fibonacci sequence");
+
             int rowsTriangle = int.Parse(Console.ReadLine());
 
             // Allocate the array in a triangle form
@@ -41,25 +42,37 @@ namespace Fibonacci_Sequence
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine();
 
-            long[] fibonacci = new long[rowsTriangle];
 
-            int rowsFibo = 0; 
+            // Fibonacci calculation
+            Console.WriteLine("Your Fibonacci Sequence is: ");
 
-            while (rowsFibo <= 8)
-            {
-                for (int i = 0; i <= 8; i++)
-                {
-                    for (int j = 0; j <= i; j++)
+            Console.WriteLine();
+            
+            int rowsFibo = 0;
+            long[] fibonacci = new long[rowsTriangle - 1];
+            fibonacci[0] = 1;
+
+            while (rowsFibo < rowsTriangle)
+            {                
+                for (int j = 0; j < rowsFibo; j++)
+                {                    
+                    if (rowsFibo - j >= j)
                     {
-                        if (i + j == rowsFibo)
-                        {
-                            Console.WriteLine(pascalMatrix[i][j]);                            
-                        }
-                    }
+                        long num = pascalMatrix[rowsFibo - j][j];
+                        fibonacci[j] = num;                                                
+                    }                    
                 }
-            rowsFibo++;
-            }
+                long fibNum = 0;
+                for (int i = 0; i < rowsFibo; i++)
+                {                    
+                    fibNum = fibonacci[i] + fibNum;                    
+                }
+                Console.Write(" " + fibNum);
+                rowsFibo++;
+            }         
         }
     }
 }
+
